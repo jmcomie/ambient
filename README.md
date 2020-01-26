@@ -1,6 +1,7 @@
 <img src="/images/ambientjs-logo.png" width="50%">
 A JavaScript Ambient Light Library. Lightweight. Fast. Portable.
 
+
 ## Description
 Ambient.js is a lightweight and flexible JavaScript library that adds ambient lighting to any `<img>` or `<video>` tags.
 
